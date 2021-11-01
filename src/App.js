@@ -7,9 +7,9 @@ class App extends Component {
 		comments: [
 			{
 				name: 'Yazan',
-				email: 'YazanNeedsalot@yahoo.com',
+				email: 'Yazan.s.alzubi@gmail.com',
 				date: new Date(2021, 9, 1, 12, 15, 0),
-				massage: 'Hello, how are you?'
+				massage: 'Hello, there!  how may I help you?'
 			},
 		],
 		newComment: {
