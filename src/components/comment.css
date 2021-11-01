@@ -1,0 +1,50 @@
+.comment {
+	background-color: #fff;
+	margin-bottom: 2rem;
+	border-radius: .5rem;
+	box-shadow: 0 10px 15px -3px rgba(0, 0, 0, .1) 0 4px 6px -2px rgba(0, 0, 0, .05);
+	padding: 1rem;
+	display: flex;
+}
+
+.content {
+	margin-left: 1rem;
+	width: 100%;
+    position: relative;
+}
+
+.userImage {
+	max-width: 80px;
+	max-height: 80px;
+}
+.name {
+	font-size: 1.25rem;
+	margin: .5rem 0.25rem 0;
+	color: #2d3748;
+}
+
+.email {
+	color: #007bff;
+}
+
+.Msg {
+	color: #4a5568;
+    margin:.5rem 0 ;
+}
+
+.date {
+	text-align: right;
+    color: silver;
+    font-size: 0.75rem;
+}
+
+.remove_btn{
+    position: absolute;
+    top: 0%;
+    right: 0;
+    border: none;
+    background:none ;
+    cursor: pointer;
+    font-size: 1.5rem;
+    
+}
