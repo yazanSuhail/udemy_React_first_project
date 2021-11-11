@@ -1,3 +1,8 @@
+# About project
+
+This project is just for training, I am not using any hooks in this app. 
+the reason is to get to get familiar with component structure without any hooks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
